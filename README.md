@@ -8,7 +8,7 @@ I believe that the main reason is that front-end development satisfies my need f
 
 * 🌍  I'm based in Gujrat, India.
 * ✉️  You can contact me at [vishalvansjariya2512@gmail.com](mailto:vishalvansjariya2512@gmail.com)
-* 🧠  I'm learning React, Tailwind CSS
+* 🧠  I'm mastering React, Tailwind CSS
 * 🤝  I'm open to collaborating on Any Javascript Project.
 
 ### Skills
